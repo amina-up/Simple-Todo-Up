@@ -1,0 +1,49 @@
+.add-list {
+  background-color: #2ae7ca;
+  padding: 100px;
+  flex-direction: column;
+  color: white;
+  font-size: 27px;
+}
+.btn-add {
+  padding: 0px 34px;
+  color: whitesmoke;
+  box-shadow: 2px 5px #148f77;
+  border-radius: 31px;
+  font-size: 23px;
+  font-weight: bold;
+  background-color: #148f77;
+}
+.btn-add:hover {
+  cursor: pointer;
+}
+#btn-add:hover {
+  color: #20c0a7;
+  background-color: whitesmoke;
+}
+
+.forms {
+  width: 400px;
+  margin: 29px 7px;
+  padding: 6px 12px;
+}
+.todo {
+  background-color: #2ae7ca;
+}
+
+.complet {
+  text-decoration: line-through;
+}
+.ando {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+  font-size: 35px;
+}
+
+.new-list {
+  display: flex;
+  justify-content: space-between;
+}
